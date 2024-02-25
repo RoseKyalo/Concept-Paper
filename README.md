@@ -1,5 +1,6 @@
 # Transforming Healthcare through Early Neurological Disorder Detection: A Conceptual Framework
-![Image Description](/images/image 2.jpeg)
+![Image Description](https://github.com/RoseKyalo/Concept-Paper/blob/main/images/image%202.jpg)
+
 
 
 
