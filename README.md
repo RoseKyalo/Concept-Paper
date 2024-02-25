@@ -1,5 +1,5 @@
 # Transforming Healthcare through Early Neurological Disorder Detection: A Conceptual Framework
-![Brain disease diagnosis with medical doctor](https://www.istockphoto.com/photo/brain-disease-diagnosis-with-medical-doctor-seeing-magnetic-resonance-imaging-film-gm1199813214-343424127)
+![Image Description](/images/image 2.jpeg)
 
 
 
